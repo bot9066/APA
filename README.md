@@ -8,7 +8,7 @@ This project explores and analyzes the content catalog of Amazon Prime Video (U.
 
 | File Name                          | Description |
 |-----------------------------------|-------------|
-| `Amazon_Prime_EDA_Submission_Complete.ipynb` | Final notebook with full EDA and project write-up |
+| `Amazon_Prime_EDA.ipynb` | Final notebook with full EDA and project write-up |
 | `titles.csv`                      | Metadata about shows and movies (genre, year, rating, runtime, etc.) |
 | `credits.csv`                     | Information about actors and directors tied to each title |
 
